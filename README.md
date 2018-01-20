@@ -1,6 +1,6 @@
 # Course Reserve API
 
-Scripts to create a list of all courses that link to Primo
+Scripts to create a list of all courses with link to Primo.  Created to assist staff when course facets were removed by November Primo release.
 
 ## Getting Started
 
